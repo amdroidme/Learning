@@ -28,6 +28,11 @@ public class UnderstandConcurrentHasMap {
 		hashMap3.start();
 		hashMap4.start();
 		
+		hashMap1.start();
+		hashMap2.start();
+		hashMap3.start();
+		hashMap4.start();
+		
 		
 	}
 
